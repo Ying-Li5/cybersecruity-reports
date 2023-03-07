@@ -1,1 +1,1 @@
-# cybersercuity-reports
+# cybersecruity-reports
